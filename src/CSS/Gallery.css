@@ -1,0 +1,16 @@
+.gallery{
+  min-height: 100vh;
+  padding: 10vh 5vh;
+}
+.gallery img{
+  padding: 5px;
+
+}
+.gallery img:hover{
+  box-shadow: 1px 1px 5px;
+}
+.gallery-heading{
+  color: black;
+  padding: 5px;
+  background-color:  rgb(236, 234, 234);
+}
